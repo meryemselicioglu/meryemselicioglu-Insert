@@ -1,0 +1,1 @@
+INSERT INTO song (title, artist) VALUES ('Call Out My Name', 'The Weeknd');
